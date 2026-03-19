@@ -132,6 +132,47 @@ These controls map against other standards and guidelines, such a NIST CSF, PCI 
 Not formally audited and certified against
 
 
-Module 4: Security Principles
+**Module 4: Security Principles**
+<img width="676" height="201" alt="image" src="https://github.com/user-attachments/assets/86f727da-ca08-4a0f-a417-ca60d9f66de8" />
+
+**Fail Secure :** In the event of a failure the system responds in a way that access or data is denied. 
+
+**Fail Safe :** In the event of failure , there is no(or minimal) harm to other systems or personnel.
+
+Least privilege
+-Minimum access and time
+-old unix systems services required root privilege
+-Restrict admin access and admin password
+-Mobile application permission
+
+**Compartmentalisation :**
+Compartmentalisation breaks a system up into isolated units
+A web server can be compartmentalised by separating out the web, application, database, and logging into separate servers.
+Segregation involves the creation and enforcement of rules to control communication between compartments, such as hosts, services, or networks.
+Segregation is usually performed by firewalls or access control lists.
+
+
+**Principle of Simplicity**
+<img width="680" height="324" alt="image" src="https://github.com/user-attachments/assets/920e0ac1-4fc5-434b-851a-679823b42416" />
+
+**Privacy**
+-Users: Only collect the Pll you need, for your published purposes
+Secure the PII you collect/store
+Delete the PII once the purpose is finished
+-Systems:Configure systems to only expose the services and information needed
+Examples:
+For a public web server, allow connections to HTTPS, but not to the SQL server
+
+**Kerckhoffs's Principle**
+<img width="652" height="325" alt="image" src="https://github.com/user-attachments/assets/c0ba9174-7eca-4968-b09d-2e9826d81d0e" />
+
+**Proportionality**
+
+It is all about balance
+
+<img width="611" height="184" alt="image" src="https://github.com/user-attachments/assets/608be47a-c5e0-4465-8813-dd81b46d24f8" />
+
+
+
 
 
