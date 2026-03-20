@@ -284,3 +284,28 @@ One way funtion(Cannot reversed)
 
 <img width="681" height="289" alt="image" src="https://github.com/user-attachments/assets/b5a704da-baed-4c1f-b947-b5ac62923fe4" />
 
+
+
+**Module 7: Identity and Access Management**
+
+1.Framework of policies,procedures and tools
+2.Defining and managing roles and access privilages
+
+-Authentication: process of verifying the identity of user or device
+**Three Authentication Factor**
+-Something You know(pass)
+-Something You have(security hardware token)
+-Something You are(biometric like face,finger print)
+
+Single factor Authentication is the weakest
+Multi - factor Authentication (MFA)
+Two-Factor Authentication (2FA)
+
+-Authorization: Defines an access policy, allows for granting rights and privileges
+
+-Access Control
+RBAC(Role based Access control)
+user->role->permission
+
+
+
