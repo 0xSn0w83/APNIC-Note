@@ -309,3 +309,52 @@ user->role->permission
 
 
 
+**Module 8: Incident Response**
+
+*Security Incident*
+A computer security incident is a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices
+
+Example of Security Incident:
+1.Malware causing financial loss or loss of Data(trojan , ransomware etc)
+2.Data Breaches(customer info, confidential info)
+3. Critical Vulnerabilities of software
+4.Distributed Danial of Service
+
+*Incident Response Vs Incident Handling*
+
+-Incident Response(Technical Capability)
+1.Analysis
+2.Response
+
+-Incident Handling(Management Capability)
+1.Planning
+2.Logistic
+3.Communication
+4.Coordination
+
+
+<img width="1910" height="1010" alt="image" src="https://github.com/user-attachments/assets/e46906f8-b047-4d0c-973a-2e07d9dc5bf3" />
+
+
+
+<img width="1689" height="964" alt="image" src="https://github.com/user-attachments/assets/5c6f67e5-8fca-4505-9b55-67f9ec32caa4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
