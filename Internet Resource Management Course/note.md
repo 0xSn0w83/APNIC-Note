@@ -162,3 +162,49 @@ IPv4 Policy
 IPv6 Policy
 ASN Policy
 
+**Module 2 -- Number Resources**
+**Topic 2.1 — Introduction to Number Resources**
+
+*What are Number Resources?*
+Refet to IP addresses and AS numbers.
+
+Types
+-Two types of IP
+1.IPv4
+2.IPv6
+
+-AS number
+assigned to networks and used to identify a network in routing protocols.
+
+
+*Resource Delegation*
+APNIC delegates IP addresses and ASN resources to members who are legally registered and/or has network presence in Asia Pacific
+. The IP addresses and ASN's are categorized as either Portable or Non-Portable.
+
+
+Portable and Non-Portable Addresses
+Portability is a term used to describe the type of IP address blocks distributed to organizations.
+A delegation is said to be portable if it is delegated from the Regional Internet Registry (RIR) in this case APNIC or NIRs.
+An APNIC member organization can therefore receive a Portable Assignment or a Portable Allocation.
+
+*Portable Addresses*
+Portable delegations are resources given to Member organizations directly from APNIC or NIRS
+When an APNIC Member changes its upstrearn provider, the Member gets to keep its IP address block. This is an advantage for the Member since they don't need to change their network IP addresses and AS Number and are therefore independent from their upstream provider.
+Also called Provider-Independent (PI) addresses.
+
+*Non-Portable Addresses*
+Non-Portable delegation is when APNIC Members sub-delegate number resources to their downstream customers.
+
+**Allocation and Assignment**
+Delegation is a generic term used for IP and ASN distributed to APNIC Members and downstream customers.
+
+
+*Allocation*
+An address space is considered an allocation if it is distributed to the Member for the purposes of subsequent delegation.
+
+*Assignment*
+An address space is an assignment if it is delegated to the Member for specific use within their network infrastructure. It is not meant to be sub-delegated or re-assigned.
+
+
+<img width="1842" height="926" alt="image" src="https://github.com/user-attachments/assets/c112dcec-4738-410e-86d2-ccde704fc343" />
+
